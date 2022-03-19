@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0051-2501
+
+ Directory of C:\Users\Pratik Pol\Desktop\MyProject
+
+19-Mar-22  07:56 PM    <DIR>          .
+19-Mar-22  07:56 PM    <DIR>          ..
+19-Mar-22  07:56 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  93,274,017,792 bytes free
